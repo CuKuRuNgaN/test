@@ -1,9 +1,7 @@
-body
-{
-    margin-right: auto;
-    margin-bottom: auto;
-    margin-left: auto;
-    margin-top: auto;
-    border: 10px;
-    color: black;
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
 }
