@@ -1,0 +1,30 @@
+[33mcommit fb29e18b9d0ae0fac7f35716058f88c481ab74d7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 107b20e 19e6b43
+Author: CuKuRuNgaN <gabrieldien13@gmail.com>
+Date:   Tue Aug 25 17:26:07 2020 +0700
+
+    Fix merge conflicts
+
+[33mcommit 19e6b437d73a07da05b9d5557532133b8e74bdce[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: CuKuRuNgaN <31154767+CuKuRuNgaN@users.noreply.github.com>
+Date:   Tue Aug 25 17:18:18 2020 +0700
+
+    Update index.html
+
+[33mcommit 107b20ef5c8d70dfeea8afe6a65954ec344e0765[m
+Author: CuKuRuNgaN <gabrieldien13@gmail.com>
+Date:   Tue Aug 25 17:10:01 2020 +0700
+
+    Add a third line
+
+[33mcommit d964b8f549b3adb685db4da264fae992e10cefe6[m
+Author: CuKuRuNgaN <31154767+CuKuRuNgaN@users.noreply.github.com>
+Date:   Tue Aug 25 17:02:53 2020 +0700
+
+    Update index.html
+
+[33mcommit 8ced17b6dcb0bfb34bbbb6813d27f0b18056aa09[m
+Author: CuKuRuNgaN <gabrieldien13@gmail.com>
+Date:   Tue Aug 25 16:49:15 2020 +0700
+
+    Added index,html
